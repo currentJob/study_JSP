@@ -1,4 +1,4 @@
-## JSP(Java Server Pages) 문법 학습
+## JSP(Java Server Pages) 강의 내용 정리
 
 * 배열 선언, 초기화 및 접근
 * 클래스 정의 및 메소드 선언

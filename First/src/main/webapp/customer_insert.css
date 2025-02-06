@@ -1,7 +1,0 @@
-table {margin:auto; width:300px; border-collapse:collapse;}
-table {width:400px; border-collapse:collapse; border:2px solid black;}
-caption {font-size:20pt; font-weight:bold;}
-th, td {border:1px solid grey; padding:3px;}
-th {width:25%; background-color:#CFD0ED; text-align:left;}
-td {background-color:#FAFAEE; text-align:left;}
-.msg_red {font-size:10pt; color:red;}

@@ -19,7 +19,6 @@
 * 다양한 요소에 대한 CSS 스타일링
 
 ## 예제 파일 설명
-<details>
 - **array1.jsp**: 1차원 배열 선언, 초기화, 접근 및 활용 방법을 보여줍니다.
 - **class.jsp**: JSP에서 클래스를 정의하고 메소드를 선언하는 방법을 보여줍니다.
 - **connect_db.jsp**: 데이터베이스 연결 및 연결 종료 방법을 보여줍니다.
@@ -74,4 +73,3 @@
 - **login_table.css**: 로그인 테이블에 대한 CSS 스타일을 정의합니다.
 - **student_insert.css**: 학생 정보 입력 폼에 대한 CSS 스타일을 정의합니다.
 - **table_retrieval.css**: 테이블 정보 검색 출력에 대한 CSS 스타일을 정의합니다.
-</details>
